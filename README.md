@@ -41,6 +41,7 @@ If you can't find it here, try one of these sites:
 - [Basicons](https://basicons.xyz/)
 - [Eva Icons](https://akveo.github.io/eva-icons/)
 - [Font Awesome Icons](https://faicons.dev/?ref=tiny-helpers)
+- [Glyphs](https://glyphs.fyi)
 
 <!-- LICENSE -->
 ## License
